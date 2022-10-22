@@ -1,6 +1,6 @@
 export const config = {
   githubToken: "GITHUB_TOKEN",
-  hypothesisToken: "HYPOTHESIS_TOKEN",
+  hypothesisToken: "my token here",
   twitterToken: {
     consumer_key: "CONSUMER_KEY",
     consumer_secret: "CONSUMER_SECRET",
